@@ -1,15 +1,21 @@
 <div align="center">
-  <img src="img/computer-illustration.png" width="400" alt="Computer Illustration">
+  <img src="img/computer-illustration.png" width="225" alt="Computer Illustration">
 
-# Olá, eu sou o Kauã Victor! 👋
+# Olá, eu sou Kauã Victor! 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Java%20%26%20Vue.js-blue?style=for-the-badge" alt="Role">
   <img src="https://img.shields.io/github/followers/kauavictorss?label=Followers&style=for-the-badge" alt="GitHub Followers">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-victor-santos/)
-[![Gmail](https://img.shields.io/badge/Gmail-kaua15321@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua15321@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaua-victor-santos/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaua15321@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -62,8 +68,8 @@
 [<img align="left" height="64px" width="64px" alt="TRE-PE" src="img/logo-tre.png"/>](https://www.tre-pe.jus.br/)
 
 &nbsp;&nbsp; **Desenvolvedor Full Stack (2024 - Atual)** \
-&nbsp;&nbsp; [**Tribunal Regional Eleitoral de Pernambuco (TRE-PE)**](https://www.tre-pe.jus.br/) • Tempo Integral \
-&nbsp;&nbsp; `Java`, `Spring Boot`, `Vue.js`, `REST APIs`. \
+&nbsp;&nbsp; [**Tribunal Regional Eleitoral de Pernambuco (TRE-PE)**](https://www.tre-pe.jus.br/) • Estágio \
+&nbsp;&nbsp; `Java`, `JSF`, `Spring Boot`, `REST APIs`, `PostgreSQL`, `Vue.js`, `Cypress`, `Playwright`, `GitLab`. \
 <br/> 
 
 ---
