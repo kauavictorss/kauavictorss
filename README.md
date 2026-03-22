@@ -51,9 +51,7 @@
 
 #### **AI Agents & Ferramentas**
 <p align="left">
-  <a href="https://github.com/features/copilot/cli?locale=pt-br"><img src="https://img.shields.io/badge/GitHub_Copilot-8B0000Set-Location "C:\Projetos\kauavictorss"
-  git rm -r --cached .idea
-  git status --ignored?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></a>
+  <a href="https://github.com/features/copilot/cli?locale=pt-br"><img src="https://img.shields.io/badge/GitHub_Copilot-8B0000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></a>
   <a href="https://geminicli.com/"><img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"></a>
   <a href="https://insomnia.rest/"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
