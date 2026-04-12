@@ -73,8 +73,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" height="195">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula" alt="Top Langs" height="195">
 </p>
 
 ---
