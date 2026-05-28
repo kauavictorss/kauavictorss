@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-brown?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/github/followers/kauavictorss?label=Followers&style=for-the-badge" alt="GitHub Followers">
 </p>
 
 <p align="center">
@@ -76,6 +75,18 @@
   <img src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" height="165">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula" alt="Top Langs" height="195">
 </p>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/refs/heads/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/refs/heads/output/github-snake.svg">
+  <img alt="github snake contribution graph" src="https://raw.githubusercontent.com/carlosdelfino/carlosdelfino/refs/heads/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
