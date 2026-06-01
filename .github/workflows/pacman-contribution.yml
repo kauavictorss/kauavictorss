@@ -2,8 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   generate-graph:
@@ -12,14 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pacman
-        uses: 13x1x3/pacman-github-contribution-graph@v1
+      - name: Generate pacman graph
+        uses: Platane/snk/svg-only@v3
         with:
-          username: ${{ github.repository_owner }}
-          output: dist
-          light_bg: "#ffffff"
-          dark_bg: "#24292e"
-          theme: dracula
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
