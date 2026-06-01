@@ -16,7 +16,7 @@
 
 ## 🙋 Sobre mim
 
-Sou desenvolvedor backend com foco em **Java e Spring Boot**, com quase 2 anos de experiência como estagiário no
+Sou desenvolvedor backend com foco em **Java e Spring Boot**, com quase 2 anos de experiência como estagiário no 
 **Tribunal Regional Eleitoral de Pernambuco (TRE-PE)**. Ao longo desse período, atuei em projetos reais de médio porte —
 desde o desenvolvimento de APIs REST até a integração com Kafka e a resolução de bugs críticos em produção.
 
@@ -116,6 +116,12 @@ desafiadores e continuar crescendo como engenheiro de software.
 ---
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
+</picture>
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
