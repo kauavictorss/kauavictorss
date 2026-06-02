@@ -24,8 +24,7 @@ Tenho afinidade com boas práticas de código, arquitetura de APIs, testes autom
 Também tenho exposição ao frontend com **Vue.js**, o que me permite colaborar de ponta a ponta no ciclo de
 desenvolvimento.
 
-Estou sempre buscando oportunidades de crescimento como **desenvolvedor backend**, onde possa contribuir com projetos
-desafiadores e continuar a crescer como engenheiro de software.
+Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa contribuir com projetos desafiadores e evoluir profissionalmente como engenheiro de software.
 
 > 📍 Pernambuco, Brasil · 🎓 Estudante de Sistemas · ⚡ Curioso por IA aplicada ao desenvolvimento
 
@@ -117,11 +116,7 @@ desafiadores e continuar a crescer como engenheiro de software.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
