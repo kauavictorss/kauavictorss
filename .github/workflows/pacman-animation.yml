@@ -24,14 +24,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Pacman Graph
-        uses: Platane/snk/svg-only@v3
+        uses: guandjoy/pacman-repo-contributions@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prepare dist
+        run: |
+          mkdir -p dist
+          mv pacman.svg dist/pacman-contribution-graph.svg
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
