@@ -116,7 +116,11 @@ Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
+</picture>
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
