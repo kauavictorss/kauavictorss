@@ -24,7 +24,8 @@ Tenho afinidade com boas práticas de código, arquitetura de APIs, testes autom
 Também tenho exposição ao frontend com **Vue.js**, o que me permite colaborar de ponta a ponta no ciclo de
 desenvolvimento.
 
-Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa contribuir com projetos desafiadores e evoluir profissionalmente como engenheiro de software.
+Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa contribuir com projetos desafiadores e
+evoluir profissionalmente como engenheiro de software.
 
 > 📍 Pernambuco, Brasil · 🎓 Estudante de Sistemas · ⚡ Curioso por IA aplicada ao desenvolvimento
 
@@ -104,11 +105,25 @@ Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true)](https://github.com/kauavictorss)
-
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true)](https://github.com/kauavictorss)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kauavictorss&theme=dracula&hide_border=true)](https://github.com/kauavictorss)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kauavictorss">
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kauavictorss">
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img height="180" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
