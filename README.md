@@ -105,7 +105,6 @@ evoluir profissionalmente como engenheiro de software.
 
 <div align="center">
 
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/kauavictorss">
@@ -123,7 +122,6 @@ evoluir profissionalmente como engenheiro de software.
       </a>
     </td>
   </tr>
-</table>
 
 </div>
 
