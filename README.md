@@ -109,17 +109,17 @@ evoluir profissionalmente como engenheiro de software.
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/kauavictorss">
-        <img height="250" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+        <img height="150" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/kauavictorss">
-        <img height="250" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+        <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://git.io/streak-stats">
-        <img height="250" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
+        <img height="150" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
       </a>
     </td>
   </tr>
