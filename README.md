@@ -108,7 +108,7 @@ evoluir profissionalmente como engenheiro de software.
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/kauavictorss">
-        <img height="180" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+        <img height="150" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
       </a>
     </td>
     <td align="center" valign="top">
@@ -118,7 +118,7 @@ evoluir profissionalmente como engenheiro de software.
     </td>
     <td align="center" valign="top">
       <a href="https://git.io/streak-stats">
-        <img height="180" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
+        <img height="150" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
       </a>
     </td>
   </tr>
