@@ -1,10 +1,12 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&reversal=true" alt="Capsule Render"/>
+</div>
+
+<div align="center">
 
 <img width="250" alt="computer-illustration" src="https://github.com/user-attachments/assets/5692e8eb-401b-47c7-8a46-04f63516389e" />
 
-# Olá, eu sou o Kauã Victor 👋
-
-**Desenvolvedor Backend Java** · Apaixonado por APIs bem construídas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9102F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer+;Be+Welcome!+%3A))](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-victor-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua15321@gmail.com)
@@ -14,8 +16,11 @@
 
 ---
 
-## 🙋 Sobre mim
+## 🙋 Sobre mim / About me
 
+<details>
+<summary>🇧🇷 Clique para ler em Português</summary>
+<br>
 Sou desenvolvedor backend com foco em **Java e Spring Boot**, com 2 anos de experiência como estagiário no
 **Tribunal Regional Eleitoral de Pernambuco (TRE-PE)**. Ao longo desse período, atuei em projetos reais de médio porte —
 desde o desenvolvimento de APIs REST até a integração com Kafka e a resolução de bugs críticos em produção.
@@ -28,6 +33,24 @@ Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa
 evoluir profissionalmente como engenheiro de software.
 
 > 📍 Pernambuco, Brasil · 🎓 Estudante de Sistemas · ⚡ Curioso por IA aplicada ao desenvolvimento
+</details>
+
+<details>
+<summary>🇺🇸 Click to read in English</summary>
+<br>
+I am a backend developer focused on **Java and Spring Boot**, with 2 years of experience as an intern at the
+**Regional Electoral Court of Pernambuco (TRE-PE)**. During this period, I worked on real medium-sized projects —
+from developing REST APIs to integrating with Kafka and resolving critical bugs in production.
+
+I have an affinity for good coding practices, API architecture, automated testing, and containerization with Docker.
+I also have exposure to the frontend with **Vue.js**, which allows me to collaborate from end to end in the development
+cycle.
+
+I am looking for new opportunities as a **backend developer**, where I can contribute to challenging projects and
+evolve professionally as a software engineer.
+
+> 📍 Pernambuco, Brazil · 🎓 Systems Student · ⚡ Curious about AI applied to development
+</details>
 
 ---
 
@@ -72,57 +95,22 @@ evoluir profissionalmente como engenheiro de software.
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8B0000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
----
-
-## 💼 Experiência Profissional
-
-<table>
-  <tr>
-    <td width="100px" align="center">
-      <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/31ec3947-82f6-44e7-898d-db89bb1ece03" />
-    </td>
-    <td>
-      <strong>Desenvolvedor Full Stack · Estágio</strong><br/>
-      <a href="https://www.tre-pe.jus.br/">Tribunal Regional Eleitoral de Pernambuco (TRE-PE)</a> · 2024 – 2026<br/>
-      <br/>
-      Atuação em projetos internos de gestão e controle, com responsabilidades em backend e frontend:
-      <ul>
-        <li>Desenvolvimento e manutenção de <strong>APIs REST com Spring Boot</strong> e integração via <strong>Kafka</strong></li>
-        <li>Implementação de testes unitários e de integração com <strong>JUnit e Mockito</strong></li>
-        <li>Desenvolvimento de funcionalidades no frontend com <strong>Vue.js</strong></li>
-        <li>Resolução de bugs em máquinas de estado e fluxos críticos em produção</li>
-        <li>Uso de <strong>Docker</strong>, GitLab e práticas de Conventional Commits no dia a dia</li>
-      </ul>
-      <code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>JUnit</code> <code>Mockito</code> <code>Vue.js</code> <code>PostgreSQL</code> <code>Docker</code> <code>GitLab</code> <code>Cypress</code> <code>Playwright</code>
-    </td>
-  </tr>
-</table>
+![Codex](https://img.shields.io/badge/Codex-202122?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/kauavictorss">
-        <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/kauavictorss">
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://git.io/streak-stats">
-        <img height="165" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
-      </a>
-    </td>
-  </tr>
-
+  <a href="https://github.com/kauavictorss" title="GitHub Stats">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/kauavictorss" title="Top Languages">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+  </a>
+  <a href="https://git.io/streak-stats" title="GitHub Streak">
+    <img height="165" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
+  </a>
 </div>
 
 ---
