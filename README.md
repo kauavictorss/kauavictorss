@@ -6,7 +6,7 @@
 
 <img width="250" alt="computer-illustration" src="https://github.com/user-attachments/assets/5692e8eb-401b-47c7-8a46-04f63516389e" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9102F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer+;Be+Welcome!+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9102F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer+;Be+Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-victor-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua15321@gmail.com)
