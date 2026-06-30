@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4407F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer+;Be+Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4407F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer;Welcome+to+my+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-victor-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua15321@gmail.com)
@@ -18,39 +18,23 @@
 
 ## 🙋 Sobre mim / About me
 
-<details>
-<summary>🇧🇷 Clique para ler em Português</summary>
+Sou desenvolvedor backend com foco em **Java e Spring Boot**, com 2 anos de experiência como estagiário no **Tribunal Regional Eleitoral de Pernambuco (TRE-PE)**. Ao longo desse período, atuei em projetos reais de médio porte — desde o desenvolvimento de APIs REST até a integração com Kafka e a resolução de bugs críticos em produção.
+
+Tenho afinidade com boas práticas de código, arquitetura de APIs, testes automatizados e conteinerização com Docker. Também tenho exposição ao frontend com **Vue.js**, o que me permite colaborar de ponta a ponta no ciclo de desenvolvimento.
+
+Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa contribuir com projetos desafiadores e evoluir profissionalmente como engenheiro de software.
+
+> 📍 Pernambuco, Brasil · 🎓 Estudante de Desenvolvimento de Sistemas · ⚡ Curioso por IA aplicada ao desenvolvimento
+
 <br>
-Sou desenvolvedor backend com foco em **Java e Spring Boot**, com 2 anos de experiência como estagiário no
-**Tribunal Regional Eleitoral de Pernambuco (TRE-PE)**. Ao longo desse período, atuei em projetos reais de médio porte —
-desde o desenvolvimento de APIs REST até a integração com Kafka e a resolução de bugs críticos em produção.
 
-Tenho afinidade com boas práticas de código, arquitetura de APIs, testes automatizados e conteinerização com Docker.
-Também tenho exposição ao frontend com **Vue.js**, o que me permite colaborar de ponta a ponta no ciclo de
-desenvolvimento.
+*I am a backend developer focused on **Java and Spring Boot**, with 2 years of experience as an intern at the **Regional Electoral Court of Pernambuco (TRE-PE)**. During this period, I worked on real medium-sized projects — from developing REST APIs to integrating with Kafka and resolving critical bugs in production.*
 
-Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa contribuir com projetos desafiadores e
-evoluir profissionalmente como engenheiro de software.
+*I have an affinity for good coding practices, API architecture, automated testing, and containerization with Docker. I also have exposure to the frontend with **Vue.js**, which allows me to collaborate from end to end in the development cycle.*
 
-> 📍 Pernambuco, Brasil · 🎓 Estudante de Sistemas · ⚡ Curioso por IA aplicada ao desenvolvimento
-</details>
+*I am looking for new opportunities as a **backend developer**, where I can contribute to challenging projects and evolve professionally as a software engineer.*
 
-<details>
-<summary>🇺🇸 Click to read in English</summary>
-<br>
-I am a backend developer focused on **Java and Spring Boot**, with 2 years of experience as an intern at the
-**Regional Electoral Court of Pernambuco (TRE-PE)**. During this period, I worked on real medium-sized projects —
-from developing REST APIs to integrating with Kafka and resolving critical bugs in production.
-
-I have an affinity for good coding practices, API architecture, automated testing, and containerization with Docker.
-I also have exposure to the frontend with **Vue.js**, which allows me to collaborate from end to end in the development
-cycle.
-
-I am looking for new opportunities as a **backend developer**, where I can contribute to challenging projects and
-evolve professionally as a software engineer.
-
-> 📍 Pernambuco, Brazil · 🎓 Systems Student · ⚡ Curious about AI applied to development
-</details>
+> 📍 Pernambuco, Brazil · 🎓 Systems Development Student · ⚡ Curious about AI applied to development
 
 ---
 
@@ -103,13 +87,13 @@ evolve professionally as a software engineer.
 
 <div align="center">
   <a href="https://github.com/kauavictorss" title="GitHub Stats">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/kauavictorss" title="Top Languages">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
   </a>
   <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img height="165" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
+    <img height="170" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
   </a>
 </div>
 
