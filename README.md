@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&reversal=true" alt="Capsule Render"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F1DF7&height=120&section=header"/>
 
 <div align="center">
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4407F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer;Welcome+to+my+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
@@ -107,6 +103,8 @@ Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauavictorss/kauavictorss/output/pacman-contribution-graph.svg">
 </picture>
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
-
 </div>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F1DF7&height=120&section=footer"/>
