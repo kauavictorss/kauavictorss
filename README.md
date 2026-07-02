@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4407F7&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer;Welcome+to+my+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=98F724&width=435&lines=Hello%2C+my+name+is+Kau%C3%A3+Santos;I+am+a+Back-end+Developer;Welcome+to+my+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-victor-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua15321@gmail.com)
