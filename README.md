@@ -83,13 +83,13 @@ Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa
 
 <div align="center">
   <a href="https://github.com/kauavictorss" title="GitHub Stats">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=kauavictorss&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/kauavictorss" title="Top Languages">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
   </a>
   <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img height="170" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
+    <img height="165" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
   </a>
 </div>
 
