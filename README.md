@@ -88,9 +88,6 @@ Estou em busca de novas oportunidades como **desenvolvedor backend**, onde possa
   <a href="https://github.com/kauavictorss" title="Top Languages">
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauavictorss&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
   </a>
-  <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img height="165" src="https://streak-stats.demolab.com?user=kauavictorss&theme=dracula&hide_border=true" alt="GitHub streak" />
-  </a>
 </div>
 
 ---
